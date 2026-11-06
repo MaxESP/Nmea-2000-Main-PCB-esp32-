@@ -9,3 +9,6 @@ Project of a Serie of Hats Sensors link to Main pcb esp32 iso Can
 2 NMEA 2000 Tilt Compass Hat build with mpu6050 + LSM303DLHC.\
 3 Battery Monitor Hat.
 
+
+Main Pcb esp32 iso nmea2000
+
