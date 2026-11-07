@@ -16,3 +16,17 @@ Project of a series of sensor hats linked to the main ESP32 isolated CAN PCB.
   <img src="nmea2000%20main%20pcb.png" alt="NMEA 2000 main PCB front" width="400">
   <img src="main%20pcb%20back.png" alt="Main PCB back" width="350">
 </p>
+<p align="center">
+Technical Data of the board
+
+1 esp32 wroom
+2 B0505S-1WR3_C5377998
+3 MP1584 en LDO
+4 AMS1117-3.3_C18212698
+5 ISO1050DUBR
+6 MCP2515T-I/SO
+7 SN74LVC1T45DCKT x 5
+8 HTU21D
+9 HTU21D
+
+</p>
