@@ -20,13 +20,22 @@ Project of a series of sensor hats linked to the main ESP32 isolated CAN PCB.
 Technical Data of the board
 
 1 esp32 wroom
+
 2 B0505S-1WR3_C5377998
+
 3 MP1584 en LDO
+
 4 AMS1117-3.3_C18212698
+
 5 ISO1050DUBR
+
 6 MCP2515T-I/SO
+
 7 SN74LVC1T45DCKT x 5
+
 8 HTU21D
-9 HTU21D
+
+9 BMP280
+
 
 </p>
