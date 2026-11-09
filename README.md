@@ -48,8 +48,8 @@ a- technical Data components
 nb Validation antenna biais 3.3v for active Antenna  
 </p>
 <p align="center">
-<img src="main%20ebyte%20gnss_front.png" alt="ebyte gnss_front.png" width="350">
-<img src="main%20gnss_ebyte_back.png" alt="gnss_ebyte_back.png" width="350">
+<img src="ebyte%20gnss_front.png" alt="ebyte gnss_front.png" width="350">
+<img src="gnss_ebyte_back.png" alt="gnss_ebyte_back.png" width="350">
 
   
 </p>
