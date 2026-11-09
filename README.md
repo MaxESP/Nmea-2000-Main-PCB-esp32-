@@ -45,9 +45,10 @@ a- technical Data components
 1 EBYTE GN05S
 2 TPAP2112K-3.3TRG1
 3 CAP-TH_DMS3R3224
-nb Validation antenna biais 3.3v for active Antenna
-
-  
+nb Validation antenna biais 3.3v for active Antenna  
+</p>
+<p align="center">
+<img src="main%20ebyte gnss_front.png" alt="ebyte gnss_front.png" width="350">
 </p>
 
 
