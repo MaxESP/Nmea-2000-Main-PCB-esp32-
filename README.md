@@ -13,8 +13,8 @@ Project of a series of sensor hats linked to the main ESP32 isolated CAN PCB.
 ## Main PCB — ESP32 isolated NMEA 2000
 
 <p align="center">
-  <img src="nmea2000%20%20pcb.png" alt="NMEA 2000 main PCB front" width="400"> //https://github.com/MaxESP/Nmea-2000-Main-PCB-esp32-/blob/main/nmea2000%20pcb.png
-  <img src="main%20pcb%20back.png" alt="Main PCB back" width="350">
+  <img src="nmea2000%20%20pcb.png" alt="NMEA 2000 main PCB front" width="400"> 
+  <img src="nmea2000%20pcb%20back.png" alt="Main PCB back" width="350">
 </p>
 <p align="center">
 Technical Data of the board
