@@ -55,12 +55,13 @@ nb Validation antenna biais 3.3v for active Antenna
 <img src="gnss_ebyte_back.png" alt="gnss_ebyte_back.png" width="350">
 
 </p>
-
-<p align="center">
 IMU COMPASS TILT HAT 
 Based on Imu6050 and LSM303DLHC
+<p align="center">
+
 <img src="imucompass.png" alt="ebyte gnss_front.png" width="350">
 <img src="imucompass_back.png" alt="gnss_ebyte_back.png" width="350">
+  
 </p>
 
 
